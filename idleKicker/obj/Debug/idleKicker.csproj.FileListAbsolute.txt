@@ -1,0 +1,16 @@
+C:\Users\mgibson9\Downloads\key_preview\IdleKicker\idleKicker\bin\Debug\idleKicker.exe
+C:\Users\mgibson9\Downloads\key_preview\IdleKicker\idleKicker\bin\Debug\idleKicker.pdb
+C:\Users\mgibson9\Downloads\key_preview\IdleKicker\idleKicker\obj\Debug\idleKicker.csprojResolveAssemblyReference.cache
+C:\Users\mgibson9\Downloads\key_preview\IdleKicker\idleKicker\obj\Debug\key_preview.Form1.resources
+C:\Users\mgibson9\Downloads\key_preview\IdleKicker\idleKicker\obj\Debug\key_preview.Properties.Resources.resources
+C:\Users\mgibson9\Downloads\key_preview\IdleKicker\idleKicker\obj\Debug\idleKicker.csproj.GenerateResource.Cache
+C:\Users\mgibson9\Downloads\key_preview\IdleKicker\idleKicker\obj\Debug\idleKicker.exe
+C:\Users\mgibson9\Downloads\key_preview\IdleKicker\idleKicker\obj\Debug\idleKicker.pdb
+J:\groups\erato\Admin\source_code\IdleKicker\idleKicker\obj\Debug\idleKicker.exe
+J:\groups\erato\Admin\source_code\IdleKicker\idleKicker\obj\Debug\idleKicker.pdb
+J:\groups\erato\Admin\source_code\IdleKicker\idleKicker\bin\Debug\idleKicker.exe
+J:\groups\erato\Admin\source_code\IdleKicker\idleKicker\bin\Debug\idleKicker.pdb
+J:\groups\erato\Admin\source_code\IdleKicker\idleKicker\obj\Debug\idleKicker.csprojResolveAssemblyReference.cache
+J:\groups\erato\Admin\source_code\IdleKicker\idleKicker\obj\Debug\key_preview.Properties.Resources.resources
+J:\groups\erato\Admin\source_code\IdleKicker\idleKicker\obj\Debug\idleKicker.csproj.GenerateResource.Cache
+J:\groups\erato\Admin\source_code\IdleKicker\idleKicker\obj\Debug\idleKicker.Form1.resources

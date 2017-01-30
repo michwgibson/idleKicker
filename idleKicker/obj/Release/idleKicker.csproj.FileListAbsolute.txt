@@ -1,0 +1,10 @@
+C:\Users\mgibson9\Downloads\key_preview\key preview\key preview\obj\Release\key_preview.Form1.resources
+C:\Users\mgibson9\Downloads\key_preview\key preview\key preview\obj\Release\key_preview.Properties.Resources.resources
+C:\Users\mgibson9\Downloads\key_preview\key preview\key preview\obj\Release\idleKicker.csproj.GenerateResource.Cache
+C:\Users\mgibson9\Downloads\key_preview\key preview\key preview\obj\Release\idleKicker.csprojResolveAssemblyReference.cache
+C:\Users\mgibson9\Downloads\key_preview\key preview\key preview\bin\Release\idleKicker.exe
+C:\Users\mgibson9\Downloads\key_preview\key preview\key preview\bin\Release\idleKicker.pdb
+C:\Users\mgibson9\Downloads\key_preview\key preview\key preview\obj\Release\idleKicker.exe
+C:\Users\mgibson9\Downloads\key_preview\key preview\key preview\obj\Release\idleKicker.pdb
+J:\groups\erato\Admin\source_code\IdleKicker\idleKicker\obj\Release\idleKicker.exe
+J:\groups\erato\Admin\source_code\IdleKicker\idleKicker\obj\Release\idleKicker.pdb
